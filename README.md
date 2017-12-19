@@ -1,0 +1,1 @@
+exercise of shell script
